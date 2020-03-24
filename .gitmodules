@@ -1,0 +1,3 @@
+[submodule "sm_project_two"]
+	path = sm_project_two
+	url = https://github.com/CK-qa/sm_project_two
